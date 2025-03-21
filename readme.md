@@ -1,5 +1,7 @@
 # Página da Receita: Cupcake de Café com Chantilly - Exercício Proposto pela Rocketseat
 
+<img src="receitaimg.jpg" alt="Image do Projeto" width="800"/>
+
 Este é um projeto simples e responsivo que apresenta uma página web dedicada a uma receita deliciosa de **Cupcake de Café com Chantilly**. O layout foi criado para ser visualmente atraente e fácil de navegar, proporcionando uma experiência agradável ao usuário.
 
 ## Estrutura do Projeto
@@ -7,11 +9,13 @@ Este é um projeto simples e responsivo que apresenta uma página web dedicada a
 O projeto segue uma estrutura básica de HTML5, contendo as seguintes seções principais:
 
 1. **Cabeçalho (Head)**:
+
    - Metadados como `charset`, `viewport` e título da página.
    - Importação de fontes externas do Google Fonts (`Alice`) para estilização do texto.
    - Link para o arquivo CSS externo (`style.css`) para estilização personalizada.
 
 2. **Corpo (Body)**:
+
    - Uma imagem principal (`main-image.jpg`) exibida no topo da página.
    - Seções organizadas em `section` para melhor semântica:
      - **Sobre**: Apresenta o nome da receita, uma breve descrição, tempo de preparo, rendimento e nível de dificuldade.
@@ -34,6 +38,7 @@ O projeto segue uma estrutura básica de HTML5, contendo as seguintes seções p
 ## Como Usar
 
 1. **Pré-requisitos**:
+
    - Certifique-se de ter um navegador moderno instalado (Google Chrome, Firefox, Safari, etc.).
    - Clone ou baixe este repositório para acessar os arquivos.
 
